@@ -5,7 +5,7 @@ install_requires = [
 ]
 
 setup(
-    name='lemur-manualissuer',
+    name='lemur_manualissuer',
     version='0.1.0',
     author='Jose Plana',
     author_email='jplana@tuenti.com',

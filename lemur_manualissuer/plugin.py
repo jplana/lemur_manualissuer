@@ -6,7 +6,7 @@ from lemur.plugins.bases.issuer import IssuerPlugin
 
 class ManualIssuer(IssuerPlugin):
     title = 'Manual Issuer'
-    slug = 'manual-issuer'
+    slug = 'manual_issuer'
     description = 'A plugin to interact with a CA manually.'
     version = lemur_manualissuer.VERSION
 
